@@ -21,25 +21,31 @@ First we need to create Facebook App and get ID and Secret. So, let's follow bel
  1: Go to Facebook Developer App to click here: https://developers.facebook.com and login if you don't have account so please create it.
 
  2: Then click to "Create App" button as here
-
+ 
 <p align="center"><img src="{{ url('public/facebook-config/image_1.png'); }}" alt="image 1"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_1.png</p>
 
  3: Then Choose consumer here:
 
 <p align="center"><img src="{{ url('public/facebook-config/image_2.png'); }}" alt="image 2"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_2.png</p>
 
  4: Then Add App name as bellow, then after click to create app button:
 
 <p align="center"><img src="{{ url('public/facebook-config/image_3.png'); }}" alt="image 3"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_3.png</p>
 
  5: Now, you will get app id and secret, Then you need to add this details to .env file:
 
 <p align="center"><img src="{{ url('public/facebook-config/image_4.png'); }}" alt="image 4"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_4.png</p>
 
  6: If you want to upload on production then you need to specify domain as well. But, you are checking with local then you don't need to add this urls:
 
 <p align="center"><img src="{{ url('public/facebook-config/image_5.png'); }}" alt="image 5"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_5.png</p>
 <p align="center"><img src="{{ url('public/facebook-config/image_6.png'); }}" alt="image 6"></p>
+<p align="center">Please refer this image which is located here public/facebook-config/image_6.png</p>
 
 Now you have to set app id, secret and call back url in config file so open config/services.php and set id and secret
 
