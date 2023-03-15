@@ -21,7 +21,7 @@ First we need to create Facebook App and get ID and Secret. So, let's follow bel
  1: Go to Facebook Developer App to click here: https://developers.facebook.com and login if you don't have account so please create it.
 
  2: Then click to "Create App" button as here
-
+ 
 <p align="center"><img src="{{ url('public/facebook-config/image_1.png'); }}" alt="image 1"></p>
 <p>Please refer to this image which is located here public/facebook-config/image_1.png</p>
 
